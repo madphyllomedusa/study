@@ -1,0 +1,11 @@
+﻿  Data.cpp
+C:\Users\Matthew\source\repos\5-2\5-2\Data.cpp(272,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Matthew\source\repos\5-2\5-2\Data.cpp(357,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Functions.cpp
+C:\Users\Matthew\source\repos\5-2\5-2\Data.cpp(359,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Matthew\source\repos\5-2\5-2\Functions.cpp(257,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Matthew\source\repos\5-2\5-2\Functions.cpp(269,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  main.cpp
+  Создание кода...
+C:\Users\Matthew\source\repos\5-2\5-2\Functions.cpp(230,6): warning C4101: newPrice: неиспользованная локальная переменная
+  5-2.vcxproj -> C:\Users\Matthew\source\repos\5-2\x64\Debug\5-2.exe

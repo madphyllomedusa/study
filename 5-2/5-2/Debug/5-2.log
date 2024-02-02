@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+C:\Users\mdsmo\OneDrive\Рабочий стол\Учеба\VS Project not for me\5-2\5-2\Functions.cpp(255,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mdsmo\OneDrive\Рабочий стол\Учеба\VS Project not for me\5-2\5-2\Functions.cpp(267,20): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\mdsmo\OneDrive\Рабочий стол\Учеба\VS Project not for me\5-2\5-2\Functions.cpp(229,6): warning C4101: newPrice: неиспользованная локальная переменная
+  5-2.vcxproj -> C:\Users\mdsmo\OneDrive\Рабочий стол\Учеба\VS Project not for me\5-2\Debug\5-2.exe

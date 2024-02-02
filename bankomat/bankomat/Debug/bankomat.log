@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\kod\bankomat\bankomat\Source.cpp(6,26): warning C4305: инициализация: усечение из "double" в "float"
+D:\kod\bankomat\bankomat\withdraw.h(4,14): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\kod\bankomat\bankomat\withdraw.h(9,6): warning C4101: paperValue: неиспользованная локальная переменная
+D:\kod\bankomat\bankomat\withdraw.h(107,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  bankomat.vcxproj -> D:\kod\bankomat\Debug\bankomat.exe
